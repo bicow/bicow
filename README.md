@@ -42,5 +42,5 @@ Tenho paixão por tecnologia e inovação, e estou sempre em busca de novos desa
 
 Se quiser trocar ideias sobre tecnologia ou oportunidades, me chame por aqui:  
 
-- *[Linkedin]* (https://www.linkedin.com/in/danilo-rodrigues07)
-- *[E-mail:]* (pessoal.danilorodrigues@gmail.com)
+- *[Linkedin](https://www.linkedin.com/in/danilo-rodrigues07)*
+- *[E-mail:](pessoal.danilorodrigues@gmail.com)*
