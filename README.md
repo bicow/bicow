@@ -1,8 +1,7 @@
 # 💻 Danilo Costa Rodrigues  
 
-### 👋 Olá! Bem-vindo ao meu perfil no GitHub  
+### 👋 Olá!
 
-Olá!
 Meu nome é Danilo Costa Rodrigues, sou técnico em Desenvolvimento de Sistemas, formado pela Etec da Zona Leste. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Fatec Zona Leste e atuo como Consulting Intern na IBM.
 
 Tenho paixão por tecnologia e inovação, e estou sempre em busca de novos desafios que me permitam aprender, crescer e contribuir para soluções que façam a diferença.
