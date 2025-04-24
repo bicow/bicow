@@ -28,7 +28,7 @@ Tenho paixão por tecnologia e inovação, e estou sempre em busca de novos desa
 
 ## 💼 Experiência  
 
-- *Estágio em Tecnologia* - Trabalhando com desenvolvimento web fullstack (Angular e .NET); experiência em suporte de software
+- *Estágio em Tecnologia* - Trabalhando com desenvolvimento web (Angular); experiência em suporte de software
 
 ---
 
