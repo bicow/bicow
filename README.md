@@ -1,46 +1,47 @@
 # 💻 Danilo Costa Rodrigues
 
-### 👋 Olá!
+### 👋 Hello!
 
-Meu nome é Danilo Costa Rodrigues, sou técnico em Desenvolvimento de Sistemas, formado pela Etec da Zona Leste. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Fatec Zona Leste e atuo como Consulting Intern na IBM.
+My name is Danilo Costa Rodrigues. I am a Systems Development Technician, graduated from Etec Zona Leste. Currently, I am pursuing a degree in Systems Analysis and Development (ADS) at Fatec Zona Leste and work as a Consulting Intern at IBM.  
 
-Tenho paixão por tecnologia e inovação, e estou sempre em busca de novos desafios que me permitam aprender, crescer e contribuir para soluções que façam a diferença.
-
----
-
-## 🚀 Habilidades  
-
-- *Front-end:* HTML, SCSS, JavaScript
-- *UI/UX:* Experiência em design focado na experiência do usuário
-- *frameworks:* Angular, Vue.js, Tailwind, Express.js
-- *Container:* Orquestração de containeres
-- *Git e GitHub:* Controle de versão e colaboração em projetos  
-- *Idiomas:* Português (nativo) e Inglês (avançado)  
+I am passionate about technology and innovation, and I am always looking for new challenges that allow me to learn, grow, and contribute to solutions that make a difference.  
 
 ---
 
-## 🎓 Formação  
+## 🚀 Skills  
 
-- *Curso Técnico em Desenvolvimento de Sistemas* - ETEC  
-- *Tecnólogo Análise e Desenvolvimento de Sistemas* - Fatec 
-
----
-
-## 💼 Experiência  
-
-- *Estágio em Tecnologia* - Trabalhando com desenvolvimento web fullstack (Angular e .NET); experiência em suporte de software
+- **Front-end:** HTML, SCSS, JavaScript  
+- **UI/UX:** Experience in user-centered design  
+- **Frameworks:** Angular, Vue.js, Tailwind, Express.js  
+- **Containers:** Container orchestration  
+- **Git & GitHub:** Version control and project collaboration  
+- **Languages:** Portuguese (native) and English (advanced)  
 
 ---
 
-## 🔥 Projetos e Interesses  
+## 🎓 Education  
 
-- *TCC - Easy-hours (com artigo publicado na revista Engetec)*
+- **Technical Course in Systems Development** - ETEC  
+- **Technologist in Systems Analysis and Development** - Fatec  
 
 ---
 
-## 📫 Contato  
+## 💼 Experience  
 
-Se quiser trocar ideias sobre tecnologia ou oportunidades, me chame por aqui:  
+- **Technology Intern (IBM)** - Working as Front-end developer (Angular and .NET);
+- **Technology Intern (IBM)** - Working as Back-end developer with the project's own confidential language
 
-- *[Linkedin](https://www.linkedin.com/in/danilo-rodrigues07)*
-- *[E-mail:](pessoal.danilorodrigues@gmail.com)*
+---
+
+## 🔥 Projects & Interests  
+
+- **Final Project - Easy-hours** (with article published in Engetec magazine)  
+
+---
+
+## 📫 Contact  
+
+If you want to discuss technology or opportunities, feel free to reach out:  
+
+- [LinkedIn](https://www.linkedin.com/in/danilo-rodrigues07)  
+- [E-mail](mailto:pessoal.danilorodrigues@gmail.com)
